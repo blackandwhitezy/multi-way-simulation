@@ -1,4 +1,3 @@
-**Scrolling down to the very bottom to seen the largest positive correlation.**
 ***WEIGHT***
     0                   1
     1                1.08
